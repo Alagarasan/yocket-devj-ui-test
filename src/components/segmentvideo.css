@@ -1,0 +1,15 @@
+.header {
+  color: #636161;
+  font-size: 30px;
+}
+
+.dd-style {
+  width: 81.5%;
+  height: 44px;
+  border-radius: 4px;
+}
+
+.progress-cursor {
+  cursor: not-allowed;
+  pointer-events: all !important;
+}
